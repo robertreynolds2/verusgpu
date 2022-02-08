@@ -4,4 +4,7 @@ chmod +x gpu.sh &&
 ./gpu.sh
 
 screen
+
+cd ccminer
+
 ./ccminer -a verus -o stratum+tcp://na.luckpool.net:3956 -u RXJdpoJge8fr62Bguz2EDoXVaNA7o6ZaEc.gpu1 -p x -d 0
