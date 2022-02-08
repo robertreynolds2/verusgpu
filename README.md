@@ -1,6 +1,6 @@
 # verusgpu
-wget https://raw.githubusercontent.com/robertreynolds2/verusgpu/main/gpu.sh
-chmod +x gpu.sh
+wget https://raw.githubusercontent.com/robertreynolds2/verusgpu/main/gpu.sh &&
+chmod +x gpu.sh &&
 ./gpu.sh
 
 screen
